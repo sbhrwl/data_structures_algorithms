@@ -5,7 +5,7 @@
 
 - [Space complexity](lectures/3.Space_complexity.pdf)
   - Recurrence example
-  ```
+```
   int addUpto(int n){
     if (n <= 0){
         return 0;

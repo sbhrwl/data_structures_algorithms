@@ -22,3 +22,7 @@ Each of these calls is added to the call stack and takes up actual memory.
 So it takes O(n) space
 ```
 - Time complexity of recurrence relations
+  - Substitution method
+  - Recurrence tree method
+  - Master’s theorem
+

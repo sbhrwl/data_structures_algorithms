@@ -2,6 +2,7 @@
 - [Time complexity](lectures/1.Time_complexity.pdf)
   - Types
 <img src="lectures/2.Types_time_complexity.jpg">
+
 - [Space complexity](lectures/3.Space_complexity.pdf)
   - Recurrence example
   ```

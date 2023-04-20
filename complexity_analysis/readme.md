@@ -24,7 +24,7 @@ int addUpto(int n){
 Each of these calls is added to the call stack and takes up actual memory.
 So it takes O(n) space
 ```
-- Time complexity of recurrence relations
+- [Time complexity of recurrence relations](lectures/4.Time_complexity_recurrence_relations.pdf)
   - Substitution method
 ```
 // 1
@@ -40,7 +40,7 @@ T(n) = 2T(n/2) + n^2
 T(n) = T(n/3) + T(n/4) + kn
 ```
   - Master’s theorem
-<img src="lectures/4.Master_theorem.jpg">
+<img src="lectures/5.Master_theorem.jpg">
 
 ```
 // 1

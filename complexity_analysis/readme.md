@@ -27,21 +27,21 @@ Each of these calls is added to the call stack and takes up actual memory.
 So it takes O(n) space
 ```
 - [Time complexity of recurrence relations](lectures/4.Time_complexity_recurrence_relations.pdf)
-  - Substitution method
+  - [Substitution method](lectures/notes/6.RecurrenceRelationSolvingSubstitutionMethod.pdf)
 ```
 // 1
 T(n) = 2T(n/2) + 4n
 // 2- Determine the recurrence relation for the following series 
 1,7,31,127,499
 ```
-  - Recurrence tree method
+  - [Recurrence tree method](lectures/notes/7.RecurrenceRelationSolvingRecursiveTreeMethod.pdf)
 ```
 // 1
 T(n) = 2T(n/2) + n^2
 // 2
 T(n) = T(n/3) + T(n/4) + kn
 ```
-  - Master’s theorem
+  - [Master’s theorem](lectures/notes/8.RecurrenceRelationSolvingMastersTheorem.pdf)
 <img src="lectures/5.Master_theorem.jpg">
 
 ```

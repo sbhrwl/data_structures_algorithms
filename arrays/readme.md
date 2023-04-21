@@ -1,4 +1,15 @@
 # Arrays
-## [1D arrays](arrays/readme.md)
+## [1D arrays](lectures/notes/1D-Array.pdf)
+- [notes](lectures/notes/1.Array), [exercise](exercises/Students.java)
+- [Palindrome](lectures/notes/2.Palindrome.pdf), [exercise](exercises/Palindrome.java)
+- [Reversal in an array](lectures/notes/3.ReversalInAnArray.pdf), [exercise](exercises/Reverse.java)
+- [Missing number in an array](lectures/notes/4.MissingNumberInAnArray.pdf), [exercise](exercises/Missing.java)
+- [Duplicate elements](lectures/notes/5.DuplicateElementsFinding.pdf), [exercise](exercises/Duplicate.java)
+## [2D arrays](2D-Array.pdf)
+- [notes](lectures/notes/6.2D-Array.pdf)
+- [Prefix sum brute force approach](lectures/notes/7.PrefixSumBruteForceApproach.pdf), [exercise](exercises/PrefixSum.java)
+- [Prefix sum optimized approach](lectures/notes/8.PrefixSumOptimizedApproach.pdf), [exercise](exercises/PrefixSum.java)
+- [Rotation of matrix](lectures/notes/9.RotationOfMatrix.pdf), [exercise](exercises/Palindrome.java)
 
-## [2D arrays](arrays/readme.md)
+- [Linear search](exercises/LinearSearch.java)
+- [Binary search](exercises/BinarySearch.java)

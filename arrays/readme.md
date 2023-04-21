@@ -7,8 +7,9 @@
 - [Duplicate elements](lectures/notes/5.DuplicateElementsFinding.pdf), [exercise](exercises/Duplicate.java)
 ## [2D arrays](lectures/2D-Array.pdf)
 - [notes](lectures/notes/6.2D-Array.pdf)
-- [Prefix sum brute force approach](lectures/notes/7.PrefixSumBruteForceApproach.pdf), [exercise](exercises/PrefixSum.java)
-- [Prefix sum optimized approach](lectures/notes/8.PrefixSumOptimizedApproach.pdf), [exercise](exercises/PrefixSum.java)
+- Prefix sum 
+  - [brute force approach](lectures/notes/7.PrefixSumBruteForceApproach.pdf)[exercise](exercises/PrefixSum.java)
+  - [optimized approach](lectures/notes/8.PrefixSumOptimizedApproach.pdf), [exercise](exercises/PrefixSum.java)
 - [Rotation of matrix](lectures/notes/9.RotationOfMatrix.pdf), [exercise]()
 
 - [Linear search](exercises/LinearSearch.java)

@@ -1,11 +1,13 @@
 # Complexity analysis
 - [Time complexity](lectures/1.Time_complexity.pdf)
+  - [Notes](lectures/notes/3.TimeComplexity.pdf)
   - Worst case, Best case and Average case time complexity
-  - Examples for `O(n)` and `O(n^2)`
+  - Examples for `O(n)` and `O(n^2)`, [Time complexity-Binary search](lectures/notes/4.TimeComplexity-BinarySearch.pdf)
   - Types
 <img src="lectures/2.Types_time_complexity.jpg">
 
 - [Space complexity](lectures/3.Space_complexity.pdf)
+  - [Notes](lectures/notes/5.SpaceComplexity.pdf)
   - Examples for `O(1)` and `O(n)`
   - Recurrence example fro space complexity
 ```

@@ -9,7 +9,7 @@
 - [notes](lectures/notes/6.2D-Array.pdf)
 - [Prefix sum brute force approach](lectures/notes/7.PrefixSumBruteForceApproach.pdf), [exercise](exercises/PrefixSum.java)
 - [Prefix sum optimized approach](lectures/notes/8.PrefixSumOptimizedApproach.pdf), [exercise](exercises/PrefixSum.java)
-- [Rotation of matrix](lectures/notes/9.RotationOfMatrix.pdf), [exercise](exercises/Palindrome.java)
+- [Rotation of matrix](lectures/notes/9.RotationOfMatrix.pdf), [exercise]()
 
 - [Linear search](exercises/LinearSearch.java)
 - [Binary search](exercises/BinarySearch.java)

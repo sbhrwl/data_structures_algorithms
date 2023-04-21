@@ -1,6 +1,6 @@
 # Arrays
 ## [1D arrays](lectures/notes/1D-Array.pdf)
-- [notes](lectures/notes/1.Array), [exercise](exercises/Students.java)
+- [notes](lectures/notes/1.Array.pdf), [exercise](exercises/Students.java)
 - [Palindrome](lectures/notes/2.Palindrome.pdf), [exercise](exercises/Palindrome.java)
 - [Reversal in an array](lectures/notes/3.ReversalInAnArray.pdf), [exercise](exercises/Reverse.java)
 - [Missing number in an array](lectures/notes/4.MissingNumberInAnArray.pdf), [exercise](exercises/Missing.java)

@@ -10,7 +10,7 @@
 - [notes](lectures/notes/6.2D-Array.pdf)
 - [Rotation of matrix](lectures/notes/9.RotationOfMatrix.pdf), [exercise](exercises/RotationMatrix.java)
 - Prefix sum 
-  - [brute force approach](lectures/notes/7.PrefixSumBruteForceApproach.pdf)[exercise](exercises/PrefixSum.java)
+  - [brute force approach](lectures/notes/7.PrefixSumBruteForceApproach.pdf), [exercise](exercises/PrefixSum.java)
   - [optimized approach](lectures/notes/8.PrefixSumOptimizedApproach.pdf), [exercise](exercises/PrefixSum.java)
 
 - [Linear search](exercises/LinearSearch.java)

@@ -1,16 +1,19 @@
 public class Reverse {
-    public static void main(String[] args){
-        int[] arr = {2, 4, 6, 8, 10};
+    public static void main(String[] args) {
+        int[] arr = { 2, 4, 6, 8, 10 };
         int n = 5;
-        for(int i=0; i<n/2; i++){
+        for (int i = 0; i < n / 2; i++) {
             // swap two elements in an array
             int temp = arr[i];
-            arr[i] = arr[n-i-1];
-            arr[n-i-1] = temp;
+            arr[i] = arr[n - i - 1];
+            arr[n - i - 1] = temp;
         }
-    System.out.println("Reversed array is:");
-    for(int i=0; i<n; i++){
-        System.out.print(arr[i]+" ");
+        System.out.println("Reversed array is:");
+        for (int i = 0; i < n; i++) {
+            System.out.print(arr[i] + " ");
+        }
     }
 }
-}
+// Output
+// Reversed array is:
+// 10 8 6 4 2

@@ -1,5 +1,5 @@
 # Linkedlist
-- [Introduction to Linked List and it_s types](lectures/Introduction to Linked List and its types.pdf)
+- [Introduction to Linked List and it_s types](lectures/IntroductionToLinkedListAndItsTypes.pdf)
 - Insertion in Linked List
   - [At the beginning]()
   - [At the end]()

@@ -1,1 +1,11 @@
 # Linkedlist
+- [Introduction to Linked List and it_s types](lectures/Introduction to Linked List and its types.pdf)
+- Insertion in Linked List
+  - [At the beginning]()
+  - [At the end]()
+  - [After any node]()
+- [Deletion in Linked List]()
+- [Middle of Linked List]()
+- [Cycle Detection in a Linked List]()
+- [Reverse a Linked List Iteratively]()
+- [Reverse a Linked List Recursively]()

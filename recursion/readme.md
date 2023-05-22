@@ -7,5 +7,5 @@
 - [Power of a Big Integer number](lectures/notes/6.PowerOfBigIntegerNumber.pdf), [exercise](exercises/PowerOfBigIntegerNumber.java)
 - [Binary search using recursion](lectures/notes/6.PowerOfBigIntegerNumber.pdf)
 - [Balanced parenthesis]()
-- [All paths of one dimension board]()
+- [All paths of one dimension board](exercises/BoardPaths.java)
 - [Maze path]()

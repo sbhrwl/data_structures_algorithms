@@ -5,6 +5,6 @@
 - [Finding Power of a Big Integer number](lectures/4.FindingPowerUsingRecursion.pdf), [notes](lectures/notes/4.FindingPowerUsingRecursion.pdf), [exercise](exercises/powerOfElement.java)
 - [Count number of stairs](lectures/5.CountNumberOfStairs.pdf), [notes](lectures/notes/5.CountNumberOfStairs.pdf), [exercise](exercises/countWays.java)
 - [Binary search using recursion](lectures/notes/6.BinarySearchUsingRecursion.pdf)
-- [Balanced parenthesis](exercises/BoardPaths.java)
+- [Balanced parenthesis](exercises/BalanceParenthesis.java)
 - [All paths of one dimension board](exercises/BoardPaths.java)
-- [Maze path](exercises/BoardPaths.java)
+- [Maze path](exercises/MazePath.java)

@@ -1,12 +1,10 @@
-public class MyClass {
-    
+public class BoardPaths {
     public static void printBoardPaths(int curr, int dest, String ans) {
-        
-        if(curr > dest) {
+        if (curr > dest) {
             return;
         }
-        
-        if(curr == dest) {
+
+        if (curr == dest) {
             System.out.println(ans);
             return;
         }
@@ -17,38 +15,134 @@ public class MyClass {
         printBoardPaths(curr + 5, dest, ans + 5);
         printBoardPaths(curr + 6, dest, ans + 6);
     }
-    
-    public static void printMazePathTwo(int cr, int cc, int dr, int dc, String ans) {
-        
-        if(cr > dr || cc > dc) {
-            return;
-        }
-        
-        if(cr == dr && cc == dc) {
-            System.out.println(ans);
-            return;
-        }
-        printMazePathTwo(cr, cc + 1, dr, dc, ans + 'H');
-        printMazePathTwo(cr + 1, cc, dr, dc, ans + 'V');
-    }
-    
-    public static void balParenthPrint(int n, int oc, int cc, String ans) {
-        
-        if(oc == n && cc == n) {
-            System.out.println(ans);
-            return;
-        }
-        if(oc < n) {
-            balParenthPrint(n, oc + 1, cc, ans + '(');
-        }
-        
-        if(oc > cc) {
-            balParenthPrint(n, oc, cc + 1, ans + ')');
-        }
-    }
+
     public static void main(String args[]) {
-     // printBoardPaths(0, 8, "");
-     // printMazePathTwo(0, 0, 2, 2, "");
-      balParenthPrint(3, 0, 0, "");
+        printBoardPaths(0, 8, "");
     }
 }
+// Output
+// 11111111
+// 1111112
+// 1111121
+// 111113
+// 1111211
+// 111122
+// 111131
+// 11114
+// 1112111
+// 111212
+// 111221
+// 11123
+// 111311
+// 11132
+// 11141
+// 1115
+// 1121111
+// 112112
+// 112121
+// 11213
+// 112211
+// 11222
+// 11231
+// 1124
+// 113111
+// 11312
+// 11321
+// 1133
+// 11411
+// 1142
+// 1151
+// 116
+// 1211111
+// 121112
+// 121121
+// 12113
+// 121211
+// 12122
+// 12131
+// 1214
+// 122111
+// 12212
+// 12221
+// 1223
+// 12311
+// 1232
+// 1241
+// 125
+// 131111
+// 13112
+// 13121
+// 1313
+// 13211
+// 1322
+// 1331
+// 134
+// 14111
+// 1412
+// 1421
+// 143
+// 1511
+// 152
+// 161
+// 2111111
+// 211112
+// 211121
+// 21113
+// 211211
+// 21122
+// 21131
+// 2114
+// 212111
+// 21212
+// 21221
+// 2123
+// 21311
+// 2132
+// 2141
+// 215
+// 221111
+// 22112
+// 22121
+// 2213
+// 22211
+// 2222
+// 2231
+// 224
+// 23111
+// 2312
+// 2321
+// 233
+// 2411
+// 242
+// 251
+// 26
+// 311111
+// 31112
+// 31121
+// 3113
+// 31211
+// 3122
+// 3131
+// 314
+// 32111
+// 3212
+// 3221
+// 323
+// 3311
+// 332
+// 341
+// 35
+// 41111
+// 4112
+// 4121
+// 413
+// 4211
+// 422
+// 431
+// 44
+// 5111
+// 512
+// 521
+// 53
+// 611
+// 62

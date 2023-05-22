@@ -4,6 +4,6 @@
 - [N queens](lectures/3.N-Queen.pdf), [exercise](exercises/nQueenProblem.java)
 - [Solving a sudoku](lectures/4.SudokuSolver.pdf), [exercise](exercises/SudokuProblem.java)
 - [Rat in a maze](lectures/5.RatInMaze.pdf), [exercise](exercises/RatInAMaze.java)
-- [Permutations of array using backtracking]()
-- [Unique combination Sum using backtracking]()
+- [Permutations of array using backtracking](lectures/notes/Backtracking.pdf)
+- [Unique combination Sum using backtracking](lectures/notes/Backtracking.pdf)
 - [Notes](lectures/notes/Notes.pdf)

@@ -2,7 +2,7 @@
 - [Introduction](lectures/1.IntroductionToRecursion.pdf), [notes](lectures/notes/1.IntroductionToRecursion.pdf)
 - [Finding factorial](lectures/2.FindingFactorial.pdf), [notes](lectures/notes/2.FindingFactorial.pdf), [exercise](exercises/factorialFind.java)
 - [Finding-nth Fibonacci series](lectures/3.Finding-nth-FibonacciSeries.pdf), [notes](lectures/notes/3.Finding-nth-FibonacciSeries.pdf), [exercise](exercises/fibonacciFind.java)
-- [Finding Power of a Big Integer number](lectures/4.FindingPowerUsingRecursion.pdf), [notes](lectures/notes/4.FindingPowerUsingRecursion.pdf), [exercise](exercises/powerOfElement.java)
+- [Finding Power of a Number/Big Integer number](lectures/4.FindingPowerUsingRecursion.pdf), [notes](lectures/notes/4.FindingPowerUsingRecursion.pdf), [exercise](exercises/powerOfElement.java)
 - [Count number of stairs](lectures/5.CountNumberOfStairs.pdf), [notes](lectures/notes/5.CountNumberOfStairs.pdf), [exercise](exercises/countWays.java)
 - [Binary search using recursion](lectures/notes/6.BinarySearchUsingRecursion.pdf)
 - [Balanced parenthesis](exercises/BalanceParenthesis.java)

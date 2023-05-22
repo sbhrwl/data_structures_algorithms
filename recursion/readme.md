@@ -6,6 +6,6 @@
 - [Count number of stairs](lectures/5.CountNumberOfStairs.pdf), [notes](lectures/notes/5.CountNumberOfStairs.pdf), [exercise](exercises/countWays.java)
 - [Power of a Big Integer number](lectures/notes/6.PowerOfBigIntegerNumber.pdf), [exercise](exercises/PowerOfBigIntegerNumber.java)
 - [Binary search using recursion](lectures/notes/6.PowerOfBigIntegerNumber.pdf)
-- [Balanced parenthesis]()
+- [Balanced parenthesis](exercises/BoardPaths.java)
 - [All paths of one dimension board](exercises/BoardPaths.java)
-- [Maze path]()
+- [Maze path](exercises/BoardPaths.java)

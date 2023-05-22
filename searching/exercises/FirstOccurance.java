@@ -1,47 +1,54 @@
+// Time Complexity: O(log N)
+// Space Complexity: O(1)
+
 import java.io.*;
 import java.util.*;
-public class Main{ 
-   public static int search(int[] a, int x){
-	int n = a.length, l = 0, r = n-1, answer = -1;
-	        
-	while(l <= r) {
-	    int mid = (l+r)/2;
-	    if(a[mid] == x) {
-	    	answer = mid;
-	    	r = mid-1;  // trying to find the minimum index at which value x is present 
-	    }
-	    else if(a[mid] > x) {
-	        r = mid-1;
-	    } else l = mid+1;
-	}
 
-	return answer;
-}
-
-
-    public static void main(String args[]){
+public class FirstOccurence {
+    // Function definition
+    public static int firstOccurence(int[] arr, int target){
+        int low=0, high=arr.length - 1;
+        int result = -1;
+        while(low <= high){
+            // To avoid the overflow
+            int mid = low + (high - low)/2;
+            if(arr[mid] == target){
+                result = mid;
+                // we want lower bound of an element, so we need to traverse towards left side of an array
+                high = mid - 1;
+            }
+            else if(arr[mid] > target){
+                high = mid - 1;
+            }
+            else{
+                low = mid + 1;
+            }
+        }
+     return result;
+    }
     
-        int m;
-        Scanner sc=new Scanner(System.in);
-        System.out.print("enter the number of elements you want : ");
-        m=sc.nextInt();    
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number of elements in an array: ");
+        int n = sc.nextInt();
+
+        System.out.println("Enter the elements in an array: ");
+        int[] arr = new int[n];
+        for(int i=0; i<n; i++){
+            arr[i] = sc.nextInt();
+        }
+
+        System.out.println("Enter the target value that you want to search for: ");
+        int target = sc.nextInt();
+
+        // Function calling
+        int result = firstOccurence(arr, target);
+        if(result != -1){
+            System.out.println("First Occurence of an element is at the location: "+result);
+        }
+        else{
+            System.out.println("Element not found");
+        }
         
-        int arr[] = new int[m];
-        
-        int i;
-           
-        System.out.println("enter the elements : ");    
-        for(i = 0 ; i < m ; i++){    
-            arr[i]=sc.nextInt();  
-        }  
-        
-        int target;
-        Scanner sc1 = new Scanner(System.in);
-        System.out.print("enter the target: ");
-        target = sc1.nextInt();
-        
-        int answer = search(arr , target);
-        if(answer != -1)System.out.println("The first occurrence of given target is at " + answer);
-        else System.out.println("The element does not occur, therefore value of answer is " + answer);
-    }     
+    }
 }

@@ -1,40 +1,36 @@
-import java.io.*;
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
+// Bubble Sort is a stable sort
 import java.util.*;
-public class Sort {
-    // 0 based indexing used
-    public static void bubbleSort(int[] a) {
-        int n = a.length;
+import java.io.*;
 
-        for (int i = 0; i < n; i++) {
-            boolean flag = false;
+public class BubbleSort{
 
-            for (int j = 0; j < n - i - 1; j++) {
-                if (a[j] > a[j + 1]) {
-                    flag = true;
-                    // swap the values of a[j] and a[j+1]
-                    int temp = a[j];
-                    a[j] = a[j + 1];
-                    a[j + 1] = temp;
+    public static void bubbleSort(int[] arr){
+        // Write your code here
+
+        for(int i=0; i<arr.length; i++){
+            boolean swapped = false;
+            for(int j=0; j<arr.length-i-1; j++){
+                if(arr[j] > arr[j+1]){
+                    // swap two elements in an array
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+
+                    swapped = true;
                 }
             }
-            // No Swapping happened, array is sorted
-            if (!flag) {
-                return;
+            if(!swapped){
+                break;
             }
         }
     }
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the size of array");
-        int n = sc.nextInt();
-        int[] arr = new int[n];
-        System.out.println("Enter the elements of array");
-        for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();
-        }
+    public static void main(String[] args){
+        int[] arr = {20, 50, 30, 90, 5, 15};
         bubbleSort(arr);
-        for (int i = 0; i < n; i++) {
-            System.out.print(arr[i] + " ");
-        }
+        System.out.println("Sorted array is: ");
+        System.out.println(Arrays.toString(arr));
+
     }
 }

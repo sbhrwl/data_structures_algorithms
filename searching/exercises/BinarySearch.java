@@ -1,40 +1,51 @@
+// Time Complexity: O(log N)
+// Space Complexity: O(1)
+
 import java.io.*;
 import java.util.*;
-public class Main{ 
-    public static int binarySearch(int []a, int target){
-        int low = 0, high = a.length - 1;       // 0 based indexing
-        while (low <= high) {
-            int mid = low + (high - low) / 2;    // to avoid integer overflow
-    
-            if (a[mid] == target)return 1;  		        // value found
-            else if (a[mid] > target)high = mid - 1;
-            else low = mid + 1;
-          }
-        return 0; 			   	// value not found in the array
-    }
 
-    public static void main(String args[]){
+public class BinarySearch {
+    // Function definition
+    public static int binarySearch(int[] arr, int target){
+        int low=0, high = arr.length - 1;
+        while(low <= high){
+            int mid = low + (high - low)/2;
+            if(arr[mid] == target){
+                return mid;
+            }
+            else if(arr[mid] < target){
+                low = mid + 1;
+            }
+            else{
+                high = mid - 1;
+            }
+        }
+        return 0;
+    }
     
-        int m;
-        Scanner sc=new Scanner(System.in);
-        System.out.print("enter the number of elements you want : ");
-        m=sc.nextInt();    
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number of elements in an array: ");
+        int n = sc.nextInt();
+
+        System.out.println("Enter the elements in an array: ");
+        int[] arr = new int[n];
+        for(int i=0; i<n; i++){
+            arr[i] = sc.nextInt();
+        }
+
+        System.out.println("Enter the target value that you want to search for: ");
+        int target = sc.nextInt();
+
+        // Function calling
+        int result = binarySearch(arr, target);
+
+        if(result != 0){
+            System.out.println("Element is found at the location: "+result);
+        }
+        else{
+            System.out.println("Element is not found");
+        }
         
-        int arr[] = new int[m];
-        
-        int i;
-           
-        System.out.println("enter the elements : ");    
-        for(i = 0 ; i < m ; i++){    
-            arr[i]=sc.nextInt();  
-        }  
-        
-        int target;
-        Scanner sc1 = new Scanner(System.in);
-        System.out.print("enter the target: ");
-        target = sc1.nextInt();
-        
-        if(binarySearch(arr , target) == 1)System.out.println("True");
-        else System.out.println("False");
-    }     
+    }
 }

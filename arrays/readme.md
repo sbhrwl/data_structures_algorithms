@@ -12,6 +12,5 @@
 - Prefix sum 
   - [brute force approach](lectures/notes/7.PrefixSumBruteForceApproach.pdf), [exercise](exercises/PrefixSum.java)
   - [optimized approach](lectures/notes/8.PrefixSumOptimizedApproach.pdf), [exercise](exercises/PrefixSum.java)
-
-- [Linear search](exercises/LinearSearch.java)
-- [Binary search](exercises/BinarySearch.java)
+- [Looping 2D Array](exercises/Looping2DArray.java)
+- [Rotating 2D Array](exercises/Rotation2DArray.java)

@@ -25,7 +25,8 @@
   - to remove duplicates from a list.
 
 ### Map
-- A map (also called a **dictionary or associative array**) is a collection of **key-value pairs**. - Each key is associated with a value, and you can use the key to look up the corresponding value.
+- A map (also called a **dictionary or associative array**) is a collection of **key-value pairs**.
+- Each key is associated with a value, and you can use the key to look up the corresponding value.
 - Maps are useful when you want to store data that is structured in this way.
 
 ### Tree 

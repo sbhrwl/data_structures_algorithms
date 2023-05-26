@@ -21,7 +21,7 @@
 ### Set 
 - A set is a collection of **unique elements** with **no specific order**.
 - Sets are typically used when you want
-  - to check if an element is a member of a group (presenceor absence) or 
+  - to check if an element is a member of a group (presence or absence) or 
   - to remove duplicates from a list.
 
 ### Map

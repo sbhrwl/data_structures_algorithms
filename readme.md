@@ -9,7 +9,7 @@
 - [Linkedlist](linkedlist/readme.md)
 
 ## Data structures 
-List, set, map, tree, queue, and stack are common data structures used in computer science and programming
+List, set, map, tree, queue, and stack are common data structures used in computer science and programming. Data structures enables us to store data in structured manner.
 
 ### List
 - A list is a collection of elements in a specific **order**. 

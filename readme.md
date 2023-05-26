@@ -9,12 +9,13 @@
 - [Linkedlist](linkedlist/readme.md)
 
 ## Data structures 
-- Data structures enables us to store data in structured manner.
+- Data structures enables us to store data in a structured manner.
 - List, set, map, tree, queue, and stack are common data structures used in computer science and programming. 
 
 ### List
 - A list is a collection of elements in a specific **order**. 
-- Each element is assigned an index, which is used to access it. - Lists are typically **mutable**, which means that you can modify them by adding, removing, or changing elements.
+- Each element is assigned an index, which is used to access it.
+- Lists are typically **mutable**, which means that you can modify them by adding, removing, or changing elements.
 - Lists are typically used for storing and manipulating data that needs to be **accessed and modified frequently**
 
 ### Set 

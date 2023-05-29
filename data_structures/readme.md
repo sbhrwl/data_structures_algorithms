@@ -1,8 +1,8 @@
-# Data structures 
+# [Data structures](complexity_analysis/lectures/notes/2.DataStructure.pdf)
 - Data structures enables us to store data in a structured manner.
 - List, set, map, tree, queue, and stack are common data structures used in computer science and programming. 
 
-## List
+## [List](linkedlist/readme.md)
 - A list is a collection of elements in a specific **order**. 
 - Each element is assigned an index, which is used to access it.
 - Lists are typically **mutable**, which means that you can modify them by adding, removing, or changing elements.

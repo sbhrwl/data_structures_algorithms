@@ -1,4 +1,4 @@
-# [Data structures](complexity_analysis/lectures/notes/2.DataStructure.pdf) and [Algorithms](complexity_analysis/lectures/notes/1.Algorithms.pdf)
+## [Algorithms](complexity_analysis/lectures/notes/1.Algorithms.pdf)
 - [Complexity analysis](complexity_analysis/readme.md)
 - [Arrays](arrays/readme.md)
 - [Searching](searching/readme.md)
@@ -6,5 +6,4 @@
 - [Bit manipulation](bit_manipulation/readme.md)
 - [Recursion](recursion/readme.md)
 - [Backtracking](backtracking/readme.md)
-- [Linkedlist](linkedlist/readme.md)
-- [Data structures](data_structures/readme.md)
+## [Data structures](data_structures/readme.md)

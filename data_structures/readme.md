@@ -7,16 +7,16 @@
 - Each element is assigned an index, which is used to access it.
 - Lists are typically **mutable**, which means that you can modify them by adding, removing, or changing elements.
 - Lists are typically used for storing and manipulating data that needs to be **accessed and modified frequently**
-- [Introduction to Linkedlist and its types](lectures/IntroductionToLinkedListAndItsTypes.pdf), [notes](lectures/notes/IntroductionToLinkedListAndItsTypes.pdf)
-- [Insertion and reversal](lectures/InsertionAndReversal.pdf)
-  - [Insertion at the beginning](lectures/notes/InsertionAtTheBeginning.pdf)], [exercise](exercises/InsertionAtTheBeginning.java)
-  - [Insertion at the end](lectures/notes/InsertionAtTheEnd.pdf)], [exercise](exercises/InsertionAtTheEnd.java)
-  - [Insertion after any node](lectures/notes/InsertionAfterAnyNode.pdf), [exercise](exercises/InsertionAfterAnyNode.java)
-  - [Reverse a Linkedlist Iteratively](lectures/notes/ReverseALinkedListIteratively.pdf), [exercise](exercises/ReverseALinkedListIteratively.java)
-  - [Reverse a Linkedlist Recursively](lectures/notes/ReverseALinkedListRecursively.pdf), [exercise](exercises/ReverseALinkedListRecursively.java)
-  - [Deletion](lectures/notes/Deletion.pdf)], [exercise](exercises/Deletion.java)
-- [Middle of a Linkedlist](lectures/MiddleOfALinkedList.pdf), [notes](lectures/notes/MiddleOfALinkedList.pdf), [exercise](exercises/MiddleOfLinkedList.java)
-- [Cycle detection](lectures/CycleDetection.pdf), [notes](lectures/notes/CycleDetection.pdf), [exercise](exercises/CycleDetection.java)
+- [Introduction to Linkedlist and its types](linkedlist/lectures/IntroductionToLinkedListAndItsTypes.pdf), [notes](linkedlist/lectures/notes/IntroductionToLinkedListAndItsTypes.pdf)
+- [Insertion and reversal](linkedlist/lectures/InsertionAndReversal.pdf)
+  - [Insertion at the beginning](linkedlist/lectures/notes/InsertionAtTheBeginning.pdf)], [exercise](linkedlist/exercises/InsertionAtTheBeginning.java)
+  - [Insertion at the end](linkedlist/lectures/notes/InsertionAtTheEnd.pdf)], [exercise](linkedlist/exercises/InsertionAtTheEnd.java)
+  - [Insertion after any node](linkedlist/lectures/notes/InsertionAfterAnyNode.pdf), [exercise](linkedlist/exercises/InsertionAfterAnyNode.java)
+  - [Reverse a Linkedlist Iteratively](linkedlist/lectures/notes/ReverseALinkedListIteratively.pdf), [exercise](linkedlist/exercises/ReverseALinkedListIteratively.java)
+  - [Reverse a Linkedlist Recursively](linkedlist/lectures/notes/ReverseALinkedListRecursively.pdf), [exercise](linkedlist/exercises/ReverseALinkedListRecursively.java)
+  - [Deletion](linkedlist/lectures/notes/Deletion.pdf)], [exercise](linkedlist/exercises/Deletion.java)
+- [Middle of a Linkedlist](linkedlist/lectures/MiddleOfALinkedList.pdf), [notes](linkedlist/lectures/notes/MiddleOfALinkedList.pdf), [exercise](linkedlist/exercises/MiddleOfLinkedList.java)
+- [Cycle detection](linkedlist/lectures/CycleDetection.pdf), [notes](linkedlist/lectures/notes/CycleDetection.pdf), [exercise](linkedlist/exercises/CycleDetection.java)
 
 ## Set 
 - A set is a collection of **unique elements** with **no specific order**.

@@ -1,15 +1,15 @@
-# Linkedlist
-- [Introduction to Linked List and its types](lectures/IntroductionToLinkedListAndItsTypes.pdf)
-  - [Notes](lectures/notes/IntroductionToLinkedListAndItsTypes.pdf)
-- [Insertion in Linked List](lectures/InsertionAndReversal.pdf)
-  - [At the beginning](lectures/notes/InsertionAtTheBeginning.pdf), [exercise](exercises/InsertionAtTheBeginning.java)
-  - [At the end](lectures/notes/InsertionAtTheEnd.pdf), [exercise](exercises/InsertionAtTheEnd.java)
-  - [After any node](lectures/notes/InsertionAfterAnyNode.pdf), [exercise](exercises/InsertionAfterAnyNode.java)
-- [Deletion in Linked List](lectures/notes/Deletion.pdf), [exercise](exercises/Deletion.java)
-- [Middle of Linked List](lectures/MiddleOfALinkedList.pdf)
-  - [Notes](lectures/notes/MiddleOfLinkedList.pdf), [exercise](exercises/MiddleOfLinkedList.java)
-- [Cycle Detection in a Linked List](lectures/CycleDetection.pdf)
-  - [Notes](lectures/notes/CycleDetection.pdf), [exercise](exercises/CycleDetection.java)
-- [Reverse a Linked List](lectures/InsertionAndReversal.pdf)
-  - [Iteratively](lectures/notes/ReverseALinkedListIteratively.pdf), [exercise](exercises/ReverseALinkedListIteratively.java)
-  - [Recursively](lectures/notes/ReverseALinkedListRecursively.pdf), [exercise](exercises/ReverseALinkedListRecursively.java)
+# List
+- A list is a collection of elements in a specific **order**. 
+- Each element is assigned an index, which is used to access it.
+- Lists are typically **mutable**, which means that you can modify them by adding, removing, or changing elements.
+- Lists are typically used for storing and manipulating data that needs to be **accessed and modified frequently**
+- [Introduction to Linkedlist and its types](lectures/IntroductionToLinkedListAndItsTypes.pdf), [notes](lectures/notes/IntroductionToLinkedListAndItsTypes.pdf)
+- [Insertion and reversal](lectures/InsertionAndReversal.pdf)
+  - [Insertion at the beginning](lectures/notes/InsertionAtTheBeginning.pdf)], [exercise](exercises/InsertionAtTheBeginning.java)
+  - [Insertion at the end](lectures/notes/InsertionAtTheEnd.pdf)], [exercise](exercises/InsertionAtTheEnd.java)
+  - [Insertion after any node](lectures/notes/InsertionAfterAnyNode.pdf), [exercise](exercises/InsertionAfterAnyNode.java)
+  - [Reverse a Linkedlist Iteratively](lectures/notes/ReverseALinkedListIteratively.pdf), [exercise](exercises/ReverseALinkedListIteratively.java)
+  - [Reverse a Linkedlist Recursively](lectures/notes/ReverseALinkedListRecursively.pdf), [exercise](exercises/ReverseALinkedListRecursively.java)
+  - [Deletion](lectures/notes/Deletion.pdf)], [exercise](exercises/Deletion.java)
+- [Middle of a Linkedlist](lectures/MiddleOfALinkedList.pdf), [notes](lectures/notes/MiddleOfALinkedList.pdf), [exercise](exercises/MiddleOfLinkedList.java)
+- [Cycle detection](lectures/CycleDetection.pdf), [notes](lectures/notes/CycleDetection.pdf), [exercise](exercises/CycleDetection.java)

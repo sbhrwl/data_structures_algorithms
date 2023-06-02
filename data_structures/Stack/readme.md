@@ -1,0 +1,11 @@
+## Stack
+- A stack is a collection of elements in which elements are **added and removed from the same end**. 
+- This follows the "last in, first out" (LIFO) principle. 
+- Stacks are often used 
+  - To keep track of the order of operations in an algorithm or 
+  - To implement undo/redo functionality in an application.
+- [Introduction to Stack](Stack/lectures/IntroductionToStack.pdf)
+  - [Operations in Stack](Stack/lectures/OperationsInStack.pdf)
+  - [Stack class in java](Stack/lectures/StackClassInJava.pdf)
+- [Problem- Valid parenthesis](Stack/lectures/ValidParenthesis.pdf)
+- [Problem- Largest rectangle in histogram](Stack/lectures/LargestRectangleInHistogram.pdf)

@@ -20,6 +20,7 @@
 - Exercises
   - [LinkedListCycle](linkedlist/exercises/LinkedListCycle.java), [refer](https://stackoverflow.com/questions/2936213/how-does-finding-a-cycle-start-node-in-a-cycle-linked-list-work)
   - [Palindrome](linkedlist/exercises/Palindrome.java)
+- [Linkedlist Vs Arrays](linkedlist/lectures/notes/LinkedlistVsArrays.pdf)
 
 ## Set 
 - A set is a collection of **unique elements** with **no specific order**.

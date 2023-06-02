@@ -7,3 +7,4 @@
 - [Recursion](recursion/readme.md)
 - [Backtracking](backtracking/readme.md)
 ## [Data structures](data_structures/readme.md)
+- [Linkedlist](data_structures/linkedlist/readme.md)

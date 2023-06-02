@@ -1,4 +1,4 @@
-# [Data structures](complexity_analysis/lectures/notes/2.DataStructure.pdf)
+# [Data structures](https://github.com/sbhrwl/data_structures_algorithms/blob/main/complexity_analysis/lectures/notes/2.DataStructure.pdf)
 - Data structures enables us to store data in a structured manner.
 - List, set, map, stack, queue and tree are common data structures used in computer science and programming.
 

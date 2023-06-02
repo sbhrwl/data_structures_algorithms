@@ -8,3 +8,6 @@
 - [Backtracking](backtracking/readme.md)
 ## [Data structures](data_structures/readme.md)
 - [Linkedlist](data_structures/linkedlist/readme.md)
+- [Hashmap](data_structures/hashmap/readme.md)
+- [Stack](data_structures/stack/readme.md)
+- [Queue](data_structures/queue/readme.md)

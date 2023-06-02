@@ -17,6 +17,9 @@
   - [Deletion](linkedlist/lectures/notes/Deletion.pdf)], [exercise](linkedlist/exercises/Deletion.java)
 - [Middle of a Linkedlist](linkedlist/lectures/MiddleOfALinkedList.pdf), [notes](linkedlist/lectures/notes/MiddleOfALinkedList.pdf), [exercise](linkedlist/exercises/MiddleOfLinkedList.java)
 - [Cycle detection](linkedlist/lectures/CycleDetection.pdf), [notes](linkedlist/lectures/notes/CycleDetection.pdf), [exercise](linkedlist/exercises/CycleDetection.java)
+- Exercises
+  - [LinkedListCycle](linkedlist/exercises/LinkedListCycle.java), [refer](https://stackoverflow.com/questions/2936213/how-does-finding-a-cycle-start-node-in-a-cycle-linked-list-work)
+  - [Palindrome](linkedlist/exercises/Palindrome.java)
 
 ## Set 
 - A set is a collection of **unique elements** with **no specific order**.

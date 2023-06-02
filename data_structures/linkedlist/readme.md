@@ -13,3 +13,6 @@
   - [Deletion](lectures/notes/Deletion.pdf)], [exercise](exercises/Deletion.java)
 - [Middle of a Linkedlist](lectures/MiddleOfALinkedList.pdf), [notes](lectures/notes/MiddleOfALinkedList.pdf), [exercise](exercises/MiddleOfLinkedList.java)
 - [Cycle detection](lectures/CycleDetection.pdf), [notes](lectures/notes/CycleDetection.pdf), [exercise](exercises/CycleDetection.java)
+- Exercises
+  - [LinkedListCycle](exercises/LinkedListCycle.java), [refer](https://stackoverflow.com/questions/2936213/how-does-finding-a-cycle-start-node-in-a-cycle-linked-list-work)
+  - [Palindrome](exercises/Palindrome.java)

@@ -41,11 +41,10 @@
 - Stacks are often used 
   - To keep track of the order of operations in an algorithm or 
   - To implement undo/redo functionality in an application.
-- [Introduction to Stack](Stack/lectures/IntroductionToStack.pdf)
-  - [Operations in Stack](Stack/lectures/OperationsInStack.pdf)
-  - [Stack class in java](Stack/lectures/StackClassInJava.pdf)
-- [Problem- Valid parenthesis](Stack/lectures/ValidParenthesis.pdf)
-- [Problem- Largest rectangle in histogram](Stack/lectures/LargestRectangleInHistogram.pdf)
+- [Introduction to Stack](Stack/lectures/1.IntroductionToStack.pdf), [notes](Stack/lectures/1.IntroductionToStack.pdf)
+- [Stack class in java](Stack/lectures/2.StackClassInJava.pdf), [exercise](Stack/exercises/StackOperations.java)
+- [Problem- Valid parenthesis](Stack/lectures/3.ValidParenthesis.pdf), [notes](Stack/lectures/notes/2.ValidParenthesis.pdf), [exercise](Stack/exercises/validParenthesis.java)
+- [Problem- Largest rectangle in histogram](Stack/lectures/4.LargestRectangleInHistogram.pdf), [notes](Stack/lectures/notes/3.LargestRectangleInHistogram.pdf), [exercise](Stack/exercises/LargestRectangleInHistogram.java)
 
 ## Queue
 - A queue is a collection of elements in which the elements are **added at one end and removed from the other end**. 

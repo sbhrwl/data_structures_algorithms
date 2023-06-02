@@ -1,6 +1,6 @@
 # [Data structures](complexity_analysis/lectures/notes/2.DataStructure.pdf)
 - Data structures enables us to store data in a structured manner.
-- List, set, map, tree, queue, and stack are common data structures used in computer science and programming. 
+- List, set, map, queue, stack and tree are common data structures used in computer science and programming.
 
 ## [List](linkedlist/readme.md)
 - A list is a collection of elements in a specific **order**. 
@@ -42,8 +42,8 @@
   - To implement undo/redo functionality in an application.
 
 ## Tree 
-- A tree is a **hierarchical** data structure consisting of nodes connected by edges. 
-- Each node has a parent node (except for the root node) and zero or more child nodes. 
+- A tree is a **hierarchical** data structure consisting of nodes connected by edges.
+- Each node has a parent node (except for the root node) and zero or more child nodes.
 - Trees are often used to represent hierarchical relationships, such as the **file system** on a computer or the **structure of a web page**.
 
 In summary, the list, set, map, queue, stack and tree are all data structures used in computer science that can be classified according to their 

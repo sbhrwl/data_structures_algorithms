@@ -6,6 +6,7 @@
 - [Bit manipulation](bit_manipulation/readme.md)
 - [Recursion](recursion/readme.md)
 - [Backtracking](backtracking/readme.md)
+- [Divide and Conquer](divide_conquer/readme.md)
 ## [Data structures](data_structures/readme.md)
 - [Linkedlist](data_structures/linkedlist/readme.md)
 - [Hashmap](data_structures/Hashmap/readme.md)

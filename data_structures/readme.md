@@ -42,7 +42,7 @@
   - To keep track of the order of operations in an algorithm or 
   - To implement undo/redo functionality in an application.
 - [Introduction to Stack](Stack/lectures/1.IntroductionToStack.pdf), [notes](Stack/lectures/1.IntroductionToStack.pdf)
-- [Stack class in java](Stack/lectures/2.StackClassInJava.pdf), [exercise](Stack/exercises/StackOperations.java)
+- [Stack class in java](Stack/lectures/2.StackClassInJava.pdf), [exercise](Stack/exercises/StackOperations.java), [exercise](Stack/exercises/stackImplementation.java)
 - [Problem- Valid parenthesis](Stack/lectures/3.ValidParenthesis.pdf), [notes](Stack/lectures/notes/2.ValidParenthesis.pdf), [exercise](Stack/exercises/validParenthesis.java)
 - [Problem- Largest rectangle in histogram](Stack/lectures/4.LargestRectangleInHistogram.pdf), [notes](Stack/lectures/notes/3.LargestRectangleInHistogram.pdf), [exercise](Stack/exercises/LargestRectangleInHistogram.java)
 
@@ -50,10 +50,11 @@
 - A queue is a collection of elements in which the elements are **added at one end and removed from the other end**. 
 - This follows the "first in, first out" (FIFO) principle. 
 - Queues are often used to implement processes that require tasks to be completed in a specific order.
-- [Introduction to Queue](Stack/lectures/IntroductionToQueue.pdf)
-- [Implementation of Queue using Stack](ImplementationOfQueueUsingStack.pdf)
-- [Implementation of Stack using Queue](ImplementationOfStackUsingQueue.pdf)
-- [Introduction to Deque and Sliding Window Concept](IntroductionToDequeAndSlidingWindowConcept.pdf)
+- [Introduction to Queue](Queue/lectures/1.IntroductionToQueue.pdf), [notes](Queue/lectures/notes/1.IntroductionToQueue.pdf), [exercise](Queue/exercises/queueImplementation.java)
+- [Implementation of Stack using Queue](Queue/lectures/2.ImplementationOfStackUsingQueue.pdf), [notesQueue](Queue/lectures/notes/2.ImplementationOfStackUsingQueue.pdf), [exercise](Queue/exercises/stackusingQueue.java)
+- [Implementation of Queue using Stack](Queue/lectures/3.ImplementationOfQueueUsingStack.pdf), [notes](Queue/lectures/notes/3.ImplementationOfQueueUsingStack.pdf), [exercise](Queue/exercises/queueusingStack.java)
+- [Deque](Queue/lectures/4.Deque.pdf), [notes](Queue/lectures/notes/4.Deque.pdf), [exercise](Queue/exercises/dequeImp.java)
+- [Sliding Window Concept](Queue/lectures/5.SlidingWindowConcept.pdf), [notes](Queue/lectures/notes/5.SlidingWindowConcept.pdf), [exercise](Queue/exercises/slidingWindow.java)
 
 ## Tree 
 - A tree is a **hierarchical** data structure consisting of nodes connected by edges.

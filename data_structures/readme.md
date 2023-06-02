@@ -28,12 +28,12 @@
 - A map (also called a **dictionary or associative array**) is a collection of **key-value pairs**.
 - Each key is associated with a value, and you can use the key to look up the corresponding value.
 - Maps are useful when you want to store data that is structured in this way.
-- [Introduction to Hashing Data Structure](Hashmap/lectures/1.IntroductionToHashingDataStructure.pdf)
-- [Functions in HashMap](Hashmap/lectures/2.FunctionInHashMap.pdf)
-- [Collision Handling in HashMap](Hashmap/lectures/3.CollisionHandlingInHashMap.pdf)
-- [Types of HashMaps in Java](Hashmap/lectures/4.TypesOfHashMapsInJava.pdf)
-- [Problem- Two Sum](Hashmap/lectures/5.TwoSum.pdf)
-- [Problem- First non repeating character in a String](Hashmap/lectures/6.FirstNonRepeatingCharacterInString.pdf)
+- [Introduction to Hashing Data Structure](Hashmap/lectures/1.IntroductionToHashingDataStructure.pdf), [notes](Hashmap/lectures/notes/1.IntroductionToHashingDataStructure.pdf)
+- [Functions in HashMap](Hashmap/lectures/2.FunctionInHashMap.pdf), [exercise](Hashmap/exercises/hashMapFunctions.java)
+- [Collision Handling in HashMap](Hashmap/lectures/3.CollisionHandlingInHashMap.pdf), [notes](Hashmap/lectures/2.CollisionHandlingInHashMap.pdf)
+- [Types of HashMaps in Java](Hashmap/lectures/4.TypesOfHashMapsInJava.pdf), [notes](Hashmap/lectures/notes/3.TypesOfHashMapsInJava.pdf), [exercise](Hashmap/exercises/hashMapFunctions.java)
+- [Problem- Two Sum](Hashmap/lectures/5.TwoSum.pdf), [notes](Hashmap/lectures/notes/4.TwoSum.pdf), [exercise](Hashmap/exercises/twoSum.java)
+- [Problem- First non repeating character in a String](Hashmap/lectures/6.FirstNonRepeatingCharacterInString.pdf), [notes](Hashmap/lectures/notes/5.FirstNonRepeatingCharacterInString.pdf), [exercise](Hashmap/exercises/firstOccurence.java)
 
 ## Stack
 - A stack is a collection of elements in which elements are **added and removed from the same end**. 

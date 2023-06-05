@@ -8,6 +8,6 @@
 
 - [Fractional Knapsack](lectures/1.FractionalKnapsack.pdf), [notes](lectures/notes/2.FractionalKnapsack.pdf), [exercise](exercises/fractionalKnapsack.java)
 - [Job sechudling](lectures/2.JobScheduling.pdf), [notes](lectures/notes/3.JobScheduling.pdf), [exercise](exercises/jobScheduling.java)
-- [Merge intervals](lectures/3.MergeIntervals.pdf), [notes](lectures/notes/4.MergeIntervals.pdf), [exercise](exercises/MergeIntervals.java)
+- [Merge intervals](lectures/3.MergeIntervals.pdf), [notes](lectures/notes/4.MergeIntervals.pdf), [exercise](exercises/MergeIntervals.java), [leetcode](https://leetcode.com/problems/merge-intervals/)
 - [Huffman coding](lectures/notes/5.HuffmanCoding.pdf)
 - [Optimal merge pattern](lectures/notes/6.OptimalMergePattern.pdf)

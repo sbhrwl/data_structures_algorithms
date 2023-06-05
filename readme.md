@@ -7,6 +7,7 @@
 - [Recursion](recursion/readme.md)
 - [Backtracking](backtracking/readme.md)
 - [Divide and Conquer](divide_conquer/readme.md)
+- [Greedy algorithms](greedy_algorithms/readme.md)
 ## [Data structures](data_structures/readme.md)
 - [Linkedlist](data_structures/linkedlist/readme.md)
 - [Hashmap](data_structures/Hashmap/readme.md)

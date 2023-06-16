@@ -1,5 +1,5 @@
 # [Metro map for Paris](https://cdn.tourbytransit.com/paris/images/paris-metro-map.png)
-<img src="images/metro_map.png">
+<img src="images/metro_map.jpg">
 
 - CDG is on right top corner, as you can see it's the blue line
 - Gare du Nord is good location to stop for hotels, bit less expensive than middle center

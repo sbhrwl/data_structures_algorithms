@@ -5,8 +5,8 @@
 - Lists are typically used for storing and manipulating data that needs to be **accessed and modified frequently**
 - [Introduction to Linkedlist and its types](lectures/IntroductionToLinkedListAndItsTypes.pdf), [notes](lectures/notes/IntroductionToLinkedListAndItsTypes.pdf)
 - [Insertion and reversal](lectures/InsertionAndReversal.pdf)
-  - [Insertion at the beginning](lectures/notes/InsertionAtTheBeginning.pdf)], [exercise](exercises/InsertionAtTheBeginning.java)
-  - [Insertion at the end](lectures/notes/InsertionAtTheEnd.pdf)], [exercise](exercises/InsertionAtTheEnd.java)
+  - [Insertion at the beginning](lectures/notes/InsertionAtTheBeginning.pdf), [exercise](exercises/InsertionAtTheBeginning.java)
+  - [Insertion at the end](lectures/notes/InsertionAtTheEnd.pdf), [exercise](exercises/InsertionAtTheEnd.java)
   - [Insertion after any node](lectures/notes/InsertionAfterAnyNode.pdf), [exercise](exercises/InsertionAfterAnyNode.java)
   - [Reverse a Linkedlist Iteratively](lectures/notes/ReverseALinkedListIteratively.pdf), [exercise](exercises/ReverseALinkedListIteratively.java)
   - [Reverse a Linkedlist Recursively](lectures/notes/ReverseALinkedListRecursively.pdf), [exercise](exercises/ReverseALinkedListRecursively.java)

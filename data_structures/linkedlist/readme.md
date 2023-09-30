@@ -10,7 +10,7 @@
   - [Insertion after any node](lectures/notes/InsertionAfterAnyNode.pdf), [exercise](exercises/InsertionAfterAnyNode.java)
   - [Reverse a Linkedlist Iteratively](lectures/notes/ReverseALinkedListIteratively.pdf), [exercise](exercises/ReverseALinkedListIteratively.java)
   - [Reverse a Linkedlist Recursively](lectures/notes/ReverseALinkedListRecursively.pdf), [exercise](exercises/ReverseALinkedListRecursively.java)
-  - [Deletion](lectures/notes/Deletion.pdf)], [exercise](exercises/Deletion.java)
+  - [Deletion](lectures/notes/Deletion.pdf), [exercise](exercises/Deletion.java)
 - [Middle of a Linkedlist](lectures/MiddleOfALinkedList.pdf), [notes](lectures/notes/MiddleOfALinkedList.pdf), [exercise](exercises/MiddleOfLinkedList.java)
 - [Cycle detection](lectures/CycleDetection.pdf), [notes](lectures/notes/CycleDetection.pdf), [exercise](exercises/CycleDetection.java)
 - Exercises

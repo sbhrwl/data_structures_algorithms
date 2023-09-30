@@ -64,7 +64,7 @@
 - A tree is a **hierarchical** data structure consisting of nodes connected by edges.
 - Each node has a parent node (except for the root node) and zero or more child nodes.
 - Trees are often used to represent hierarchical relationships, such as the **file system** on a computer or the **structure of a web page**.
-
+<img src="data_struture.jpg">
 In summary, the list, set, map, stack, queue and tree are all data structures used in computer science that can be classified according to their
 - order, 
 - uniqueness of elements, 

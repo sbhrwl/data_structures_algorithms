@@ -71,5 +71,5 @@ In summary, the list, set, map, stack, queue and tree are all data structures us
 - uniqueness of elements, 
 - key-value association, and 
 - order of processing
-<img src="data_struture.jpg">
+<img src="data_structure.jpg">
 
